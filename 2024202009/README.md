@@ -6,7 +6,7 @@
    
    
 # Question 2 
-    Break  the line by delimiter as ',' , then trace the last column value of each column by  ($NF) and  record the total sum into variable  'sum' and show the result. 
+    Break  the line by delimiter by ',' , then trace the last column value of each row by  ($NF) and  record the total sum into variable  'sum' and then show the result. 
     
 # ASSUMPTION
     Taking account the fact that the format of  power_level.txt will not change  and thus last column can always by  delimiter by ',' .
